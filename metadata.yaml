@@ -1,0 +1,28 @@
+_repo: The-Wee-Scotch-Piper_40664
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40664-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brandeis, Madeline
+    birthdate: 1897
+    deathdate: 1937
+    gutenberg_agent_id: '38210'
+    url: http://www.gutenberg.org/2009/agents/38210
+description: ''
+gutenberg_issued: '2012-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40664'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Juvenile fiction'
+- !lcsh 'Bagpipe -- Juvenile fiction'
+- !lcsh 'Scotland -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Wee Scotch Piper
+url: http://www.gutenberg.org/ebooks/40664
